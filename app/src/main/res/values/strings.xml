@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FeedeepAplikasi</string>
+    <string name="secondary_name">Feedeep</string>
+    <string name="kelas">B21-CP0096</string>
+    <string name="select_animal">Select An Animal</string>
+    <string name="animal">show_animal</string>
+    <string name="picture">Take Your Picture</string>
+    <string name="camera">Camera</string>
+    <string name="detect">Detection</string>
+    <string name="show">Recommend Nutrient </string>
+    <string name="showanimal">Animal</string>
+
+    //detection detail xml
+    <string name="title">Informasi Gizi</string>
+    <string name="detectionobjct">Nama Buah</string>
+    <string name="kandungangizi">Kandungan Gizi :</string>
+    <string name="manfaat">Manfaat :</string>
+    <string name="penyajian">Cara Penyajian :</string>
+    <string name="jumlahgizi">Daftar Gizi Yang Baik :</string>
+    <string name="decripsipenyajian">tidak ada data</string>
+    <string name="kalsium">kalsium    :</string>
+    <string name="vitamin_A">vitamin_A :</string>
+    <string name="karoten">karoten    :</string>
+    <string name="fosfor">fosfor     :</string>
+    <string name="protein">protein     :</string>
+    <string name="gram">gram</string>
+    <string name="feedeep">Feedeep</string>
+    <string name="about">about</string>
+    <string name="descripsi">Aplikasi Feedeep adalah aplikasi deteksi bahan pakan ternak dan merekomendasikan kandungan gizi yang baik</string>
+    //Language
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d song found.</item>
+        <item quantity="other">%d songs found.</item>
+    </plurals>
+    
+    
+
+    <string name="change_language_settings">Change Language Settings</string>
+
+</resources>
